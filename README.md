@@ -1,5 +1,4 @@
 # Hi there, 👋 Welcome!  
-Hello, my name is Ambar Castillo.  
 ![Untitled design (1)](https://github.com/aditi-rohan/aditi-rohan/assets/124546107/f2fcb985-99e5-4e2a-b663-4c63402d4d94)
 
 I am pursuing a Bachelor of Science in Computer Science with Specialization in Cybersecurity at Colorado State University - Global Campus.    
