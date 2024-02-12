@@ -9,9 +9,11 @@ I like to participate in hackathons and other tech events to socialize, network,
 **You can reach me at:** 📫 ambar.3.castillo@gmail.com    
 ## **Languages:**  
 Dart, Java, Python, C/C++    
-![Untitled design (2)](https://github.com/aditi-rohan/aditi-rohan/assets/124546107/cc09a43a-ecb3-41cd-a88b-7d9fb4540fcd)
+![Untitled design (3)](https://github.com/aditi-rohan/aditi-rohan/assets/124546107/1243ccda-8781-45bc-b6c6-aa44b481dff6)
 
 ## **Frameworks:**  
-Flutter, Bootstrap, Django    
+Flutter, Bootstrap, Django   
+![Untitled design (3) - Copy](https://github.com/aditi-rohan/aditi-rohan/assets/124546107/ba9a8f5e-698d-4637-8d9e-632400c813bc)
+
 ## **Tools:**  
 IntelliJ, Pycharm, Visual Studio, Visual Studio Code  
