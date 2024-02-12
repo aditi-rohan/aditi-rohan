@@ -1,5 +1,5 @@
 # Hi there, 👋 Welcome!  
-![Untitled design (4)](https://github.com/aditi-rohan/aditi-rohan/assets/124546107/179a0de3-b2dd-42a1-8b0d-ea5482fcc850)
+![Hi! I’m Ambar (1)](https://github.com/aditi-rohan/aditi-rohan/assets/124546107/cbfb6b46-5134-4a85-9cf3-32da47b11afb)
 
 I am pursuing a Bachelor of Science in Computer Science with Specialization in Cybersecurity at Colorado State University - Global Campus.    
 I have a huge interest in software development and cybersecurity.  
