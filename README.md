@@ -9,7 +9,7 @@ I like to participate in hackathons and other tech events to socialize, network,
 **You can reach me at:** 📫 ambar.3.castillo@gmail.com    
 ## **Languages:**  
 Dart, Java, Python, C/C++    
-![Hi! I’m Ambar](https://github.com/aditi-rohan/aditi-rohan/assets/124546107/0a745c83-d9b5-49fb-8b6e-6a8eb0763134)
+![Untitled design (2)](https://github.com/aditi-rohan/aditi-rohan/assets/124546107/cc09a43a-ecb3-41cd-a88b-7d9fb4540fcd)
 
 ## **Frameworks:**  
 Flutter, Bootstrap, Django    
