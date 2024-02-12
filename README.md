@@ -4,7 +4,7 @@ I have a huge interest in software development and cybersecurity. 🔭 I’m cur
 I like to participate in hackathons and other tech events to socialize, network, and expand my skills.  
 You can reach me at: 📫 ambar.3.castillo@gmail.com  
 **Languages:**  
-Dart, Java, Python, C/C++
+Dart, Java, Python, C/C++  
 **Frameworks:**  
 Flutter, Django  
 **Tools:**  
