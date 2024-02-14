@@ -13,7 +13,8 @@
 - 💬 You have professional interests in cybersecurity, mobile development, hackathons, or mentorship!
 - 💬 You are looking to hire for any positions for which I could be a good fit
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aditi-rohan)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aditi-rohan&theme=radical)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aditi-rohan&theme=radical&locale=es)](https://git.io/streak-stats)  
 
 ### **Languages:**  
 ![Untitled design (3)](https://github.com/aditi-rohan/aditi-rohan/assets/124546107/1243ccda-8781-45bc-b6c6-aa44b481dff6)
