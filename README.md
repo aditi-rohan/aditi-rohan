@@ -1,6 +1,6 @@
 ### Hi there, 👋 Welcome!  
 ![Hi! I’m Ambar (1)](https://github.com/aditi-rohan/aditi-rohan/assets/124546107/cbfb6b46-5134-4a85-9cf3-32da47b11afb)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aditi-rohan)](https://git.io/streak-stats)
 ### Professional
 - 🏫 I'm currently in my final semester studying Computer Science and Cybersecurity at Colorado State University.  
 - 🍎 I am currently looking for full-time opportunities.      
