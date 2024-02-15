@@ -1,7 +1,7 @@
 ### Hi there, 👋 Welcome!  
 ![Hi! I’m Ambar (1)](https://github.com/aditi-rohan/aditi-rohan/assets/124546107/cbfb6b46-5134-4a85-9cf3-32da47b11afb)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Ambar!;Hola,+me+llamo+Ambar!)](https://git.io/typing-svg)  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+passionate+about+software+development+cybersecurity.;Me+gusta+la+ciberseguridad+y+desarollar+software.)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Ambar!;Hola,+me+llamo+Ambar!&duration=10000)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+passionate+about+software+development+cybersecurity.;Me+gusta+la+ciberseguridad+y+desarollar+software.&multiline=true&duration=10000)](https://git.io/typing-svg)  
 ### Professional
 - 🏫 I'm currently in my final semester studying Computer Science and Cybersecurity at Colorado State University.  
 - 🍎 I am currently looking for full-time opportunities.      
