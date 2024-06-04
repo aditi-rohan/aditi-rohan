@@ -2,7 +2,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=midnight-baker&theme=radical)](https://git.io/streak-stats)  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=midnight-baker&theme=radical&locale=es)](https://git.io/streak-stats)  
 <img src="https://tryhackme-badges.s3.amazonaws.com/a.student.png" alt="TryHackMe">
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Ftryhackme-badges.s3.amazonaws.com%2Fa.student.png)
 
 
 
