@@ -1,6 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+👋+I'm+Ambar!;Hola,+👋+me+llamo+Ambar!)](https://git.io/typing-svg)   
-<div style="text-align: center"> [![GitHub Streak](https://streak-stats.demolab.com/?user=midnight-baker&theme=radical)](https://git.io/streak-stats)  </div>
-<div style="text-align: center"> [![GitHub Streak](https://streak-stats.demolab.com/?user=midnight-baker&theme=radical&locale=es)](https://git.io/streak-stats)  </div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=midnight-baker&theme=radical)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=midnight-baker&theme=radical&locale=es)](https://git.io/streak-stats)  
 
 ### Professional
 - 🏫 I'm currently in my final semester studying Computer Science and Cybersecurity at Colorado State University.  
