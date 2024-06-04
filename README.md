@@ -1,7 +1,7 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+👋+I'm+Ambar!;Hola,+👋+me+llamo+Ambar!)](https://git.io/typing-svg)   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=midnight-baker&theme=radical)](https://git.io/streak-stats)  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=midnight-baker&theme=radical&locale=es)](https://git.io/streak-stats)  
-```<script src="https://tryhackme.com/badge/2517005"></script>```  
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftryhackme.com%2Fbadge%2F2517005)  
 
 ### Professional
 - 🏫 I'm currently in my final semester studying Computer Science and Cybersecurity at Colorado State University.  
