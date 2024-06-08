@@ -10,11 +10,11 @@
 - 🍎 I am currently looking for full-time opportunities.      
 
 ### Plans
-- 🔭 I’m currently preparing to take the Security+ exam in April and learning how to apply Python for cybersecurity tasks.    
+- 🔭 I’m currently preparing to take the Security+ exam in June and learning how to apply Python for cybersecurity tasks.    
 - I like to participate in hackathons and other tech events to socialize, network, and expand my skills.
 
 ### Reach out if
-- 💬 You have professional interests in cybersecurity, mobile development, hackathons, or mentorship!
+- 💬 You have professional interests in cybersecurity or mobile development!
 - 💬 You are looking to hire for any positions for which I could be a good fit
 
 
