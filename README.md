@@ -5,17 +5,26 @@
 
 
 
-### Professional
-- 🏫 I'm currently in my final semester studying Computer Science and Cybersecurity at Colorado State University.  
-- 🍎 I am currently looking for full-time opportunities.      
+### Education
+-  🎓 BS in Computer Science with Specialization in Cybersecurity (Colorado State University - Global)
+-  📖 MS in Cybersecurity & Information Assurance (Western Governors University)
+
+### Certifications
+-  🎖️CompTIA Security+ (2024-2027)
+-  🏆 ISC2 Certified in Cybersecurity (Coming Sept 2024)
+-  🎖️ Google Cybersecurity Professional Certificate (2024)
+-  🏆 CompTIA CySA+ (Coming Dec 2024)
+-  🏆 CompTIA PenTest+ (Coming Feb 2025)
+-  🏆 CompTIA CASP+ (Coming May 2025)
+-  🏆 ISACA CISM (Coming Aug 2025)    
 
 ### Plans
-- 🔭 I’m currently preparing to take the Security+ exam in June and learning how to apply Python for cybersecurity tasks.    
+- 🔭 I’m currently seeking full-time employment security or software development opportunities   
 - I like to participate in hackathons and other tech events to socialize, network, and expand my skills.
 
 ### Reach out if
 - 💬 You have professional interests in cybersecurity or mobile development!
-- 💬 You are looking to hire for any positions for which I could be a good fit
+- 💬 You are looking to hire for any positions for which I could be a good fit.
 
 
 ### **Languages:**  
