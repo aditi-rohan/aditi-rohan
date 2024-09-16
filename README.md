@@ -6,21 +6,21 @@
 
 
 ### Education
--  🎓 BS in Computer Science with Specialization in Cybersecurity (Colorado State University - Global)
--  📖 MS in Cybersecurity & Information Assurance (Western Governors University)
+-  🎓 BS in Computer Science with Specialization in Cybersecurity || Colorado State University - Global
+-  📖 MS in Cybersecurity & Information Assurance || Western Governors University
 
 ### Certifications
 -  🎖️CompTIA Security+
 -  🏆 ISC2 Certified in Cybersecurity
 -  🎖️ Google Cybersecurity Professional Certificate
-
+  
 -  🏆 CompTIA CySA+ (Coming Dec 2024)
 -  🏆 CompTIA PenTest+ (Coming Feb 2025)
 -  🏆 CompTIA CASP+ (Coming May 2025)
 -  🏆 ISACA CISM (Coming Aug 2025)    
 
 ### Plans
-- 🔭 I’m currently seeking full-time employment security or software development opportunities   
+- 🔭 I’m currently seeking full-time employment in cybersecurity or software development.   
 - I like to participate in hackathons and other tech events to socialize, network, and expand my skills.
 
 ### Reach out if
