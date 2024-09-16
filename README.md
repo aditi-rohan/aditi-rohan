@@ -10,9 +10,10 @@
 -  📖 MS in Cybersecurity & Information Assurance (Western Governors University)
 
 ### Certifications
--  🎖️CompTIA Security+ (2024-2027)
--  🏆 ISC2 Certified in Cybersecurity (Coming Sept 2024)
--  🎖️ Google Cybersecurity Professional Certificate (2024)
+-  🎖️CompTIA Security+
+-  🏆 ISC2 Certified in Cybersecurity
+-  🎖️ Google Cybersecurity Professional Certificate
+
 -  🏆 CompTIA CySA+ (Coming Dec 2024)
 -  🏆 CompTIA PenTest+ (Coming Feb 2025)
 -  🏆 CompTIA CASP+ (Coming May 2025)
